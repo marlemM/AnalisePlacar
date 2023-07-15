@@ -1,0 +1,96 @@
+id,time_casa,time_visitante,gols_casa,gols_visitante,ambas_marcam
+1,Sunshine Coast Wanderers,Gold Coast Knights,0,3,Não
+2,Olympic FC,Brisbane U21,4,0,Não
+3,Rochedale,Brisbane City,1,0,Não
+4,Peninsula,Queensland Lions,2,2,Sim
+5,Moreton Bay Utd,Gold Coast,2,2,Sim
+6,Redlands,Eastern Suburbs,2,1,Sim
+7,Olympic FC,Brisbane City,1,1,Sim
+8,Rochedale,Sunshine Coast Wanderers,2,2,Sim
+9,Gold Coast,Peninsula,2,2,Sim
+10,Eastern Suburbs,Moreton Bay Utd,1,4,Sim
+11,Queensland Lions,Brisbane U21,3,1,Sim
+12,Brisbane U21,Peninsula,1,2,Sim
+13,Moreton Bay Utd,Gold Coast Knights,1,1,Sim
+14,Brisbane City,Queensland Lions,0,2,Não
+15,Eastern Suburbs,Gold Coast,0,3,Não
+16,Olympic FC,Sunshine Coast Wanderers,0,0,Não
+17,Rochedale,Redlands,3,1,Sim
+18,Gold Coast Knights,Eastern Suburbs,5,1,Sim
+19,Rochedale,Moreton Bay Utd,2,1,Sim
+20,Brisbane U21,Gold Coast,1,0,Não
+21,Brisbane City,Peninsula,1,1,Sim
+22,Queensland Lions,Sunshine Coast Wanderers,0,1,Não
+23,Redlands,Olympic FC,2,1,Sim
+24,Brisbane City,Brisbane U21,2,0,Não
+25,Gold Coast,Gold Coast Knights,1,2,Sim
+26,Sunshine Coast Wanderers,Peninsula,2,3,Sim
+27,Redlands,Queensland Lions,2,2,Sim
+28,Eastern Suburbs,Rochedale,1,6,Sim
+29,Moreton Bay Utd,Olympic FC,5,0,Não
+30,Gold Coast,Brisbane City,1,0,Não
+31,Brisbane U21,Sunshine Coast Wanderers,2,1,Sim
+32,Redlands,Peninsula,0,0,Não
+33,Gold Coast Knights,Rochedale,2,1,Sim
+34,Moreton Bay Utd,Queensland Lions,1,2,Sim
+35,Eastern Suburbs,Olympic FC,2,3,Sim
+36,Gold Coast Knights,Olympic FC,3,0,Não
+37,Queensland Lions,Eastern Suburbs,4,4,Sim
+38,Brisbane U21,Redlands,1,0,Não
+39,Rochedale,Gold Coast,4,0,Não
+40,Peninsula,Moreton Bay Utd,2,1,Sim
+41,Brisbane City,Sunshine Coast Wanderers,5,1,Sim
+42,Gold Coast,Sunshine Coast Wanderers,1,0,Não
+43,Moreton Bay Utd,Brisbane U21,3,1,Sim
+44,Brisbane City,Redlands,1,4,Sim
+45,Queensland Lions,Gold Coast Knights,1,1,Sim
+46,Eastern Suburbs,Peninsula,0,1,Não
+47,Rochedale,Olympic FC,2,1,Sim
+48,Sunshine Coast Wanderers,Redlands,0,3,Não
+49,Olympic FC,Gold Coast,0,2,Não
+50,Brisbane City,Moreton Bay Utd,2,2,Sim
+51,Brisbane U21,Eastern Suburbs,5,0,Não
+52,Queensland Lions,Rochedale,1,3,Sim
+53,Peninsula,Gold Coast Knights,1,4,Sim
+54,Queensland Lions,Olympic FC,2,1,Sim
+55,Brisbane City,Eastern Suburbs,4,0,Não
+56,Rochedale,Peninsula,2,3,Sim
+57,Gold Coast,Redlands,2,1,Sim
+58,Moreton Bay Utd,Sunshine Coast Wanderers,1,0,Não
+59,Gold Coast Knights,Brisbane U21,2,1,Sim
+60,Peninsula,Olympic FC,1,3,Sim
+61,Queensland Lions,Gold Coast,0,1,Não
+62,Sunshine Coast Wanderers,Eastern Suburbs,0,2,Não
+63,Brisbane U21,Rochedale,2,1,Sim
+64,Redlands,Moreton Bay Utd,0,2,Não
+65,Brisbane City,Gold Coast Knights,1,2,Sim
+66,Brisbane U21,Olympic FC,1,0,Não
+67,Brisbane City,Rochedale,4,0,Não
+68,Queensland Lions,Peninsula,3,1,Sim
+69,Gold Coast,Moreton Bay Utd,1,0,Não
+70,Gold Coast Knights,Sunshine Coast Wanderers,1,1,Sim
+71,Eastern Suburbs,Redlands,2,5,Sim
+72,Brisbane U21,Queensland Lions,0,1,Não
+73,Sunshine Coast Wanderers,Rochedale,1,0,Não
+74,Peninsula,Gold Coast,0,2,Não
+75,Brisbane City,Olympic FC,2,2,Sim
+76,Redlands,Gold Coast Knights,0,3,Não
+77,Moreton Bay Utd,Eastern Suburbs,5,2,Sim
+78,Sunshine Coast Wanderers,Olympic FC,3,2,Sim
+79,Peninsula,Brisbane U21,2,2,Sim
+80,Gold Coast,Eastern Suburbs,1,1,Sim
+81,Redlands,Rochedale,1,2,Sim
+82,Gold Coast Knights,Moreton Bay Utd,2,2,Sim
+83,Queensland Lions,Brisbane City,6,3,Sim
+84,Moreton Bay Utd,Rochedale,2,0,Não
+85,Sunshine Coast Wanderers,Queensland Lions,1,1,Sim
+86,Gold Coast,Brisbane U21,0,0,Não
+87,Peninsula,Brisbane City,0,2,Não
+88,Redlands,Olympic FC,2,0,Não
+89,Eastern Suburbs,Gold Coast Knights,0,1,Não
+90,Brisbane U21,Brisbane City,0,3,Não
+91,Queensland Lions,Redlands,1,1,Sim
+92,Rochedale,Eastern Suburbs,0,1,Não
+93,Peninsula,Sunshine Coast Wanderers,1,2,Sim
+94,Moreton Bay Utd,Olympic FC,2,1,Sim
+95,Gold Coast Knights,Gold Coast,0,3,Não

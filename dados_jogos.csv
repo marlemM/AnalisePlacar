@@ -1,0 +1,141 @@
+id,time_casa,time_visitante,gols_casa,gols_visitante,ambas_marcam
+1,Flamengo,Coritiba,3,0,Não
+2,Botafogo,São Paulo,2,1,Sim
+3,Palmeiras,Cuiabá,2,1,Sim
+4,Corinthians,Cruzeiro,2,1,Sim
+5,Bragantino,Bahia,2,1,Sim
+6,Atlético-MG,Vasco,1,2,Sim
+7,Grêmio,Santos,1,0,Não
+8,Athletico-PR,Goiás,2,0,Não
+9,Fortaleza,Internacional,1,1,Sim
+10,América-MG,Fluminense,0,3,Não
+11,Fluminense,Athletico-PR,2,0,Não
+12,Vasco,Palmeiras,2,2,Sim
+13,São Paulo,América-MG,3,0,Não
+14,Santos,Atlético-MG,0,0,Não
+15,Goiás,Corinthians,3,1,Sim
+16,Cruzeiro,Grêmio,1,0,Não
+17,Internacional,Flamengo,2,1,Sim
+18,Coritiba,Fortaleza,0,3,Não
+19,Bahia,Botafogo,1,2,Sim
+20,Cuiabá,Bragantino,1,1,Sim
+21,Flamengo,Botafogo,2,3,Sim
+22,Vasco,Bahia,0,1,Não
+23,Palmeiras,Corinthians,2,1,Sim
+24,Santos,América-MG,3,2,Sim
+25,Bragantino,Cruzeiro,0,3,Não
+26,Atlético-MG,Athletico-PR,2,1,Sim
+27,Internacional,Goiás,1,0,Não
+28,Coritiba,São Paulo,1,1,Sim
+29,Fortaleza,Fluminense,4,2,Sim
+30,Cuiabá,Grêmio,1,2,Sim
+31,Fluminense,Vasco,1,1,Sim
+32,Botafogo,Atlético-MG,2,0,Não
+33,São Paulo,Internacional,2,0,Não
+34,Corinthians,Fortaleza,1,1,Sim
+35,Goiás,Palmeiras,0,5,Não
+36,Cruzeiro,Santos,2,1,Sim
+37,Grêmio,Bragantino,3,3,Sim
+38,Athletico-PR,Flamengo,2,1,Sim
+39,Bahia,Coritiba,3,1,Sim
+40,América-MG,Cuiabá,1,2,Sim
+41,Flamengo,Goiás,2,0,Não
+42,Botafogo,Corinthians,3,0,Não
+43,Palmeiras,Grêmio,4,1,Sim
+44,Santos,Bahia,3,0,Não
+45,Bragantino,América-MG,2,2,Sim
+46,Cruzeiro,Fluminense,0,2,Não
+47,Internacional,Athletico-PR,0,2,Não
+48,Coritiba,Vasco,1,1,Sim
+49,Fortaleza,São Paulo,0,0,Não
+50,Cuiabá,Atlético-MG,0,4,Não
+51,Fluminense,Cuiabá,2,0,Não
+52,Vasco,Santos,0,1,Não
+53,Palmeiras,Bragantino,1,1,Sim
+54,Corinthians,São Paulo,1,1,Sim
+55,Goiás,Botafogo,2,1,Sim
+56,Atlético-MG,Internacional,2,0,Não
+57,Grêmio,Fortaleza,0,0,Não
+58,Athletico-PR,Coritiba,3,2,Sim
+59,Bahia,Flamengo,2,3,Sim
+60,América-MG,Cruzeiro,0,4,Não
+61,Flamengo,Corinthians,1,0,Não
+62,Botafogo,Fluminense,1,0,Não
+63,São Paulo,Vasco,4,2,Sim
+64,Santos,Palmeiras,0,0,Não
+65,Bragantino,Athletico-PR,2,0,Não
+66,Cruzeiro,Cuiabá,0,1,Não
+67,Grêmio,Internacional,3,1,Sim
+68,Coritiba,Atlético-MG,1,2,Sim
+69,Bahia,Goiás,1,1,Sim
+70,América-MG,Fortaleza,2,1,Sim
+71,Flamengo,Cruzeiro,1,1,Sim
+72,Botafogo,América-MG,2,0,Não
+73,São Paulo,Goiás,2,1,Sim
+74,Corinthians,Fluminense,2,0,Não
+75,Bragantino,Santos,2,0,Não
+76,Atlético-MG,Palmeiras,1,1,Sim
+77,Internacional,Bahia,2,0,Não
+78,Athletico-PR,Grêmio,1,2,Sim
+79,Fortaleza,Vasco,2,0,Não
+80,Cuiabá,Coritiba,1,1,Sim
+81,Fluminense,Bragantino,2,1,Sim
+82,Vasco,Flamengo,1,4,Sim
+83,Palmeiras,Coritiba,3,1,Sim
+84,Santos,Internacional,1,1,Sim
+85,Goiás,Cuiabá,0,1,Não
+86,Cruzeiro,Atlético-MG,0,1,Não
+87,Grêmio,São Paulo,2,1,Sim
+88,Athletico-PR,Botafogo,1,0,Não
+89,Fortaleza,Bahia,0,0,Não
+90,América-MG,Corinthians,2,0,Não
+91,Flamengo,Grêmio,3,0,Não
+92,Botafogo,Fortaleza,2,0,Não
+93,São Paulo,Palmeiras,0,2,Não
+94,Corinthians,Cuiabá,1,1,Sim
+95,Goiás,Fluminense,2,2,Sim
+96,Atlético-MG,Bragantino,1,1,Sim
+97,Internacional,Vasco,2,1,Sim
+98,Coritiba,Santos,0,0,Não
+99,Bahia,Cruzeiro,2,2,Sim
+100,América-MG,Athletico-PR,2,2,Sim
+101,Fluminense,Atlético-MG,1,1,Sim
+102,Vasco,Goiás,0,1,Não
+103,São Paulo,Athletico-PR,2,1,Sim
+104,Santos,Corinthians,0,2,Não
+105,Bragantino,Flamengo,4,0,Não
+106,Cruzeiro,Fortaleza,0,1,Não
+107,Grêmio,América-MG,3,1,Sim
+108,Coritiba,Internacional,0,1,Não
+109,Bahia,Palmeiras,1,0,Não
+110,Cuiabá,Botafogo,0,1,Não
+111,Fluminense,Bahia,2,1,Sim
+112,Vasco,Cuiabá,1,0,Não
+113,Palmeiras,Botafogo,0,1,Não
+114,Santos,Flamengo,2,3,Sim
+115,Bragantino,Goiás,2,0,Não
+116,Cruzeiro,São Paulo,1,0,Não
+117,Grêmio,Coritiba,5,1,Sim
+118,Athletico-PR,Corinthians,1,0,Não
+119,Fortaleza,Atlético-MG,2,1,Sim
+120,América-MG,Internacional,1,2,Sim
+121,Flamengo,Fortaleza,2,0,Não
+122,Botafogo,Vasco,2,0,Não
+123,São Paulo,Fluminense,1,0,Não
+124,Corinthians,Bragantino,0,1,Não
+125,Goiás,Coritiba,1,2,Sim
+126,Atlético-MG,América-MG,2,2,Sim
+127,Internacional,Cruzeiro,0,0,Não
+128,Athletico-PR,Palmeiras,2,2,Sim
+129,Bahia,Grêmio,1,2,Sim
+130,Cuiabá,Santos,3,0,Não
+131,Cuiabá,Bahia,1,1,Sim
+132,Vasco,Cruzeiro,0,1,Não
+133,Coritiba,América-MG,3,1,Sim
+134,Atlético-MG,Corinthians,0,1,Não
+135,Palmeiras,Flamengo,1,1,Sim
+136,Santos,Goiás,4,3,Sim
+137,Bragantino,São Paulo,0,0,Não
+138,Fluminense,Internacional,2,0,Não
+139,Fortaleza,Athletico-PR,1,0,Não
+140,Grêmio,Botafogo,0,2,Não
